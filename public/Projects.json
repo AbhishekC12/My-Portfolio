@@ -1,0 +1,77 @@
+[
+    {
+        "id" : 1,
+        "image" : "video-library.jpg",
+        "title" : "Video-library application",
+        "description" : "A video library app allowing user authentication where user can see all videos but admin can modify dashboard for CRUD operations on YouTube videos: login with user ID/password, view, add, edit, delete videos, manage likes, and comments."
+    },
+    {
+        "id" : 2,
+        "image" : "ToDo.png",
+        "title" : "To-do App",
+        "description" : "A to-do application where users can view, delete, and book appointments. User credentials are stored in a database, allowing authenticated users to access and manage their appointments."
+    },
+    {
+        "id": 3,
+        "image" : "shopper.jpg",
+        "title" : "online Brand Deals",
+        "description" : "Understanding how to design a shopping online application that allows customers to browser, filter, sort products and create a custom shopping cart.",
+        "link": "https://abhishekc12.github.io/Shopper/"
+    },
+    {
+        "id" : 4,
+        "image" : "shopping.png",
+        "title" : "Online shopping application",
+        "description" : "Understanding how to design a shopping online application that allows customers to browser, filter, delete, sort products and create a custom shopping cart by using a fakestoreapi.",
+        "link" : "https://online-shopping-site-app.web.app/"
+    },
+    {
+        "id" : 5,
+        "image" : "kfc.jpg",
+        "title" : "Kfc-Form",
+        "description" : "The user enters their username and mobile number, then selects meals and any desired add-ons. They review their order, confirm it, and receive an order confirmation with details.",
+        "link" : "https://abhishekc12.github.io/KFC-Form/"
+    },
+    {
+        "id" : 6,
+        "image" : "emi.jpg",
+        "title" : "Emi-Calculator",
+        "description" : "The EMI calculator allows users to input the loan amount, duration in years, and interest rate. Upon clicking Calculate, it displays the Equated Monthly Installment (EMI) amount, helping users plan their repayments efficiently.",
+        "link" : "https://emi-calculator-app1.web.app/"
+    },
+    {
+        "id" : 7,
+        "image" : "bmi.jpg",
+        "title" : "Bmi-Calculator",
+        "description" : "The BMI calculator enables users to enter their age, gender, height, and weight. Upon clicking Calculate, it computes the Body Mass Index (BMI), providing users with an assessment of their weight status based on established BMI categories.",
+        "link" : "https://abhishekc12.github.io/BMI-Calculator/"
+    },
+    {
+        "id" : 8,
+        "image" : "Netflix-ui.jpg",
+        "title" : "Netflix-UI",
+        "description" : "Using HTML, Bootstrap, and CSS, create a Netflix-inspired UI where users can browse and view content.",
+        "link" : "https://abhishekc12.github.io/Netflix-ui/"
+    },
+    {
+        "id" : 9,
+        "image" : "Youtube-ui.jpg",
+        "title" : "Youtube-UI",
+        "description" : "A YouTube UI where users can see videos can be designed with a video list or grid view, displaying video titles, thumbnails, and short descriptions.",
+        "link" : "http://localhost/Youtube-UI/"
+    },
+    {
+        "id" : 10,
+        "image" : "mars.jpg",
+        "title" : "Nasa-Api",
+        "description" : "Utilize a NASA API to fetch data and present it in a UI using a card-style layout.",
+        "link" : "https://abhishekc12.github.io/Nasa-API/"
+    },
+    {
+        "id" : 11,
+        "image" : "sorting.png",
+        "title" : "Sorting-Example",
+        "description" : "In this sorting example, the user can dynamically add, remove, and sort cities.",
+        "link" : "https://abhishekc12.github.io/Sorting-Example/"
+    }
+]
